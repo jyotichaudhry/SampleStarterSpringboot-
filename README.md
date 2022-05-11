@@ -1,1 +1,1 @@
-# SampleStarterSpringboot- Spring boot starter project
+# SampleStarterSpringboot- Spring boot project
